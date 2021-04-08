@@ -7,6 +7,6 @@
 
 ## Soy del grupo COOSMICO
 
-[![Watch the video](Cosmico.mp4)](Cosmico.mp4)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/<https://youtu.be/vt5fpE0bzSY>)
 
 <img src="Cosmico.mp4" width="20%" height="20%">
