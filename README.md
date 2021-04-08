@@ -7,5 +7,4 @@
 
 ## Soy del grupo COOSMICO
 
-[![Watch the video](coosmico.jpg){:height="20%" width="20%"}](https://youtu.be/DC--XxOErns)
-
+[<img src="coosmico.jpg" width="20%" height="20%">](https://youtu.be/DC--XxOErns)
