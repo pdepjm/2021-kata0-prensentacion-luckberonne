@@ -1,8 +1,8 @@
-# Presentación
+# Kata 0
 
 ## Estudiante: Lucas Ariel Beronne
 
-![mi foto](miFoto.jpeg)  
+<img src="miFoto.jpeg" width="40%" height="40%">
   
 
 ## Soy del grupo COOSMICO
