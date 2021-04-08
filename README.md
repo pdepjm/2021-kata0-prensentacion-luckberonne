@@ -5,6 +5,6 @@
 ![mi foto](miFoto.jpeg)
 
 *Soy del grupo COOSMICO*
-![coosmico](coosmico.jpg | width=100)
+![coosmico](coosmico.jpg){:height="50%" width="50%"}
 
 
